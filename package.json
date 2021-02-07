@@ -1,0 +1,18 @@
+{
+  "name": "discord-bot-eigenmt",
+  "version": "1.0.0",
+  "description": "Discord bot voor eigen MT server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "M9L",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
